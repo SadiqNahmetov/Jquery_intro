@@ -1,0 +1,20 @@
+#nav-area form a i {
+    font-size: 30px;
+    color: rgba(61, 57, 57, 0.842);
+    margin-right: 20px
+}
+
+#nav-area form a i:hover {
+    font-size: 30px;
+    color: rgba(247, 7, 7, 0.842);
+    margin-right: 20px
+}
+
+
+#nav-area form a sup{
+    font-size: 15px;
+}
+
+.card{
+    border-radius: 10px;
+}
